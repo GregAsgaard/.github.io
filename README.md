@@ -34,6 +34,8 @@ Lieutenant, Medical Service Corps, Newport, RI, 2010<br />
 Doctor of Philosophy in Clinical Psychology (APA Accredited)<br />
 - Eastern Michigan University, Ypsilanti, MI, May 2000<br />
 Master of Science in Clinical Psychology<br />
- 
-Asgaard GL, Gilbert DG, Sugai C, Malpass, DM, Dillon A. Nicotine primes attention to competing affective stimuli in the context of salient alternatives. Experimental & Clinical
+
+### Publications
+
+* Asgaard GL, Gilbert DG, Sugai C, Malpass, DM, Dillon A. Nicotine primes attention to competing affective stimuli in the context of salient alternatives. Experimental & Clinical
      Psychopharmacology, 2010, Feb; 18 (1): 51-60.
