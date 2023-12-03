@@ -8,7 +8,7 @@ _Clinical Psychologist_<br />
 
 ## email: greg.asgaard at gmail dot com
  
-A passion for lifelong learning in clinical science and practice has led to the development of skills for success in a range of settings. 
+Pursuit of lifelong learning in clinical science and practice has developed skills for success in a range of settings. 
  
 ## _Work Experience_
 
@@ -25,7 +25,7 @@ A passion for lifelong learning in clinical science and practice has led to the 
  
 ## _Education_
 
-- Payap University, Thailand, expected graduation is May 2024<br />
+- Payap University, Thailand, expected graduation in May 2024<br />
 Bachelor of International Business Management<br />
 - U.S. Naval Officer Development School<br />
 Lieutenant, Medical Service Corps, Newport, RI, 2010<br />
