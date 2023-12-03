@@ -26,7 +26,7 @@ Clinical psychologist with a Ph.D. from Southern Illinois University, U.S.A. and
 ## _Education_
 
 - Payap University, Thailand, expected graduation is May 2024<br />
-International Business Management, Bachelor of Business Administration<br />
+Bachelor of International Business Management<br />
 - U.S. Naval Officer Development School<br />
 Lieutenant, Medical Service Corps, Newport, RI, 2010<br />
 - Southern Illinois University, Carbondale, IL, December 2007<br />
