@@ -33,8 +33,8 @@ Lieutenant, Medical Service Corps, Newport, RI, 2010<br />
 Doctor of Philosophy in Clinical Psychology (APA Accredited)<br />
 - Eastern Michigan University, Ypsilanti, MI, May 2000<br />
 Master of Science in Clinical Psychology<br />
-- Northern Michigan University, Marquette, MI, May 1998
-Bachelor of Science in Psychology / Behavior Analysis
+- Northern Michigan University, Marquette, MI, May 1998<br />
+Bachelor of Science in Psychology / Behavior Analysis<br />
 
 ### Publications
 
