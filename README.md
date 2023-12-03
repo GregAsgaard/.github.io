@@ -12,7 +12,7 @@ Clinical psychologist with a Ph.D. from Southern Illinois University, U.S.A. and
  
 ## _Work Experience_
 
-- Licensed Clinical Psychologist. Medcase Health Inc, trained an artificial intelligence network on diagnostic impressions by conducted psychological interviews. Summer, 2022. <br />
+- Licensed Clinical Psychologist. Medcase Health Inc, diagnostic interview trainer of artificial intelligence network, Summer, 2022. <br />
 - Licensed Clinical Psychologist. Department of Veteran’s Affairs, Readjustment Counselor, 2014-2019. <br />
 - Command Psychologist. USS Abraham Lincoln (CVN-72) Aircraft Carrier, 2011-2014. <br />
 
