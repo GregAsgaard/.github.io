@@ -4,7 +4,7 @@ _Clinical Psychologist_<br />
 > Payap University,
 > Amphur Muang, Chiang Mai 50000, Thailand
 
-<img src="IMG_9753.jpeg" width="20%" align="right">
+<img src="Greg_Photoshop_Tie.png" width="20%" align="right">
 
 ## email: greg.asgaard at gmail dot com
  
