@@ -36,5 +36,13 @@ Master of Science in Clinical Psychology<br />
 
 ### Publications
 
-* Asgaard GL, Gilbert DG, Sugai C, Malpass, DM, Dillon A. Nicotine primes attention to competing affective stimuli in the context of salient alternatives. Experimental & Clinical
-     Psychopharmacology, 2010, Feb; 18 (1): 51-60.
+* Young JW, Geyer MA, Rissling AJ, Sharp RF, Eyler LT, Asgaard GL, Light GA (2013, November). Reverse translation of the rodent 5C-CPT reveals that the impaired attention of people with schizophrenia is similar to scopolamine-induced deficits in mice. Translational Psychiatry, 3(11), 1-10. doi: 10.1038/tp.2013.82
+
+* McKenna BS, Young JW, Dawes SE, Asgaard GL, Eyler LT (2013, June). Bridging the bench to bedside gap: Validation of a reverse-translated rodent continuous performance test using functional magnetic resonance imaging. Psychiatry Research: Neuroimaging, 212(3), 183-91. doi: 10.1016/j.pscychresns.2013.01.005
+
+* Asgaard GL, Gilbert DG, Sugai C, Malpass DM, Dillon A (2010, February). Nicotine primes attention to competing affective stimuli in the context of salient alternatives. Experimental and Clinical Psychopharmacology, 18(1): 51-60. doi: 10.1037/a0018516
+
+* Gilbert D, Sugai C, Zuo Y, Eau Claire N, McClernon J, Rabinovich N, Markus T, Asgaard G, Radtke R. (2004, December). Effects of nicotine on brain responses to emotional stimuli. Nicotine & Tobacco Research, 6(6): 985-996. doi: 10.1080/14622200412331324947
+
+* Gilbert D, McClernon J, Rabinovich N, Sugai C, Plath L, Asgaard G, Huggenvik J, Botros N, Zuo Y (2004, April). Effects quitting smoking on EEG activation and attention last for more than 31 days and are more severe with stress, dependence, DRD2 A1 allele, and depressive traits. Nicotine & Tobacco Research, 6(2): 249-267. doi: 10.1080/14622200410001676305
+
