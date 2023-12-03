@@ -8,7 +8,7 @@ _Clinical Psychologist_<br />
 
 ## email: greg.asgaard at gmail dot com
  
-Pursuit of lifelong learning in clinical science and practice has developed skills for success in a range of settings. 
+The pursuit of lifelong learning in clinical science and practice has developed skills for success in a range of settings. 
  
 ## _Work Experience_
 
