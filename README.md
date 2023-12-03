@@ -8,7 +8,7 @@ _Clinical Psychologist_<br />
 
 ## email: greg.asgaard at gmail dot com
  
-Clinical psychologist with a Ph.D. from Southern Illinois University, U.S.A. and expecting to graduate in May 2024 with a bachelor’s degree in international business management at Payap University, Thailand. A passion for lifelong learning has driven me to seek out challenges and persist until the job is finished. My background in clinical care, basic research, and teaching provides a good foundation for the mix of skills needed to succeed as a top-notch instructor or researcher.
+Clinical psychologist with a Ph.D. from Southern Illinois University, U.S.A. and expecting to graduate in May 2024 with a bachelor’s degree in international business management at Payap University, Thailand. A passion for lifelong learning in clinical science and practice has led to the development of skills for success in a range of settings. 
  
 ## _Work Experience_
 
